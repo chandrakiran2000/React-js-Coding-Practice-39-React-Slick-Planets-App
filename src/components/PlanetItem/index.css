@@ -1,0 +1,23 @@
+/* Write your CSS here */
+
+.planet-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+}
+.planet-card-image {
+  height: 30vh;
+  width: 25vw;
+}
+.planet-card-heading {
+  color: #f8fafc;
+  font-size: 24px;
+}
+.planet-card-para {
+  color: #f1f5f9;
+  font-size: 18px;
+  width: 75%;
+}
